@@ -1,0 +1,24 @@
+module test_reg();
+    reg [31:0] busW;
+    reg clk, WE;
+    reg [4:0] RW, RA, RB;
+    wire [31:0] busA, busB;
+   
+   registers reg1(.busW(busW), .clk(clk), .WE(WE), .RW(RW), .RA(RA), .RB(RB), .busA(busA), .busB(busB));
+   initial
+   begin
+   clk = 0;
+   WE = 1;
+   RW = 5'b1;
+   busW = 32'b111111;
+   #10 
+   RW = 5'b10;
+   busW = 32'b11;
+   #10
+   RA = 5'b1;
+   RB = 5'b10;
+   WE = 0;   
+   end
+   always #5 clk = ~clk;
+   
+endmodule

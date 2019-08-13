@@ -1,0 +1,538 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Administrator/Desktop/ceshi1
+vALU
+Z1 !s110 1530598438
+!i10b 1
+!s100 d@BDSJVci>e0flM36M2eP0
+IK68TDWgUkfHofbeQ;G4df1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1530530673
+8C:/Users/Administrator/Desktop/ceshi1/ALU.v
+FC:/Users/Administrator/Desktop/ceshi1/ALU.v
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1530598438.000000
+!s107 C:/Users/Administrator/Desktop/ceshi1/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/ALU.v|
+!i113 1
+Z5 o-work work
+n@a@l@u
+vctrl
+R1
+!i10b 1
+!s100 Yc:9zT_;<YRL:ZK>C[La82
+IMb@];fJ5cK5:Q8Oi8P><;3
+R2
+R0
+w1528696974
+8C:/Users/Administrator/Desktop/ceshi1/ctrl.v
+FC:/Users/Administrator/Desktop/ceshi1/ctrl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Administrator/Desktop/ceshi1/ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/ctrl.v|
+!i113 1
+R5
+vDataPath
+R1
+!i10b 1
+!s100 `J_Ga;eDNoa<`Nk`8hLlY3
+IAR4bO8Pc9n`o;P?RO2P:Z2
+R2
+R0
+w1528638802
+8C:/Users/Administrator/Desktop/ceshi1/DataPath.v
+FC:/Users/Administrator/Desktop/ceshi1/DataPath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Administrator/Desktop/ceshi1/DataPath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/DataPath.v|
+!i113 1
+R5
+n@data@path
+vDM_4k
+Z6 !s110 1530598439
+!i10b 1
+!s100 a1YndEI7iJ_adn6Dn:U[E2
+IO[>9151ALEA^_C]09YRm42
+R2
+R0
+w1528638814
+8C:/Users/Administrator/Desktop/ceshi1/DM.v
+FC:/Users/Administrator/Desktop/ceshi1/DM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Administrator/Desktop/ceshi1/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/DM.v|
+!i113 1
+R5
+n@d@m_4k
+vExt
+R6
+!i10b 1
+!s100 Iz@N>O9GSlZXIFSlmA`zI2
+I?o3m6A7JMHdhe<L60RV3l1
+R2
+R0
+w1530530686
+8C:/Users/Administrator/Desktop/ceshi1/Ext.v
+FC:/Users/Administrator/Desktop/ceshi1/Ext.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1530598439.000000
+!s107 C:/Users/Administrator/Desktop/ceshi1/Ext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/Ext.v|
+!i113 1
+R5
+n@ext
+vIM_4k
+R6
+!i10b 1
+!s100 a6<ZfiZf1l?o[U>hD^1Ed1
+ISiOYKTCLOGf3IDZ>B^ZzM0
+R2
+R0
+w1528709369
+8C:/Users/Administrator/Desktop/ceshi1/IM.v
+FC:/Users/Administrator/Desktop/ceshi1/IM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Administrator/Desktop/ceshi1/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/IM.v|
+!i113 1
+R5
+n@i@m_4k
+vInstruction
+R6
+!i10b 1
+!s100 <T_CZ4PXYWJzz3kA:EWGC3
+IGCi^@zdUC@jlUXh4;0aWR3
+R2
+R0
+w1530530694
+8C:/Users/Administrator/Desktop/ceshi1/Instruction.v
+FC:/Users/Administrator/Desktop/ceshi1/Instruction.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Administrator/Desktop/ceshi1/Instruction.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/Instruction.v|
+!i113 1
+R5
+n@instruction
+vMIPS
+Z8 !s110 1530598440
+!i10b 1
+!s100 ?a2<0W;YT>JNmk8CdX9>c2
+IkOZVK<:2G:L9m69;oJYiW1
+R2
+R0
+w1530530700
+8C:/Users/Administrator/Desktop/ceshi1/MIPS.v
+FC:/Users/Administrator/Desktop/ceshi1/MIPS.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1530598440.000000
+!s107 C:/Users/Administrator/Desktop/ceshi1/MIPS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/MIPS.v|
+!i113 1
+R5
+n@m@i@p@s
+vmux2
+R8
+!i10b 1
+!s100 b2UGV=E8_BjPG^FK^`c:00
+IEUV9zWLneDWK=6Q;M=mil3
+R2
+R0
+w1530530708
+8C:/Users/Administrator/Desktop/ceshi1/mux2.v
+FC:/Users/Administrator/Desktop/ceshi1/mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Administrator/Desktop/ceshi1/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/mux2.v|
+!i113 1
+R5
+vmux3
+R8
+!i10b 1
+!s100 fHn:XAbjfPLhM]H22zeIB3
+ICgLl0eJ@e>8=2aIFRM:532
+R2
+R0
+w1530530713
+8C:/Users/Administrator/Desktop/ceshi1/mux3.v
+FC:/Users/Administrator/Desktop/ceshi1/mux3.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Administrator/Desktop/ceshi1/mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/mux3.v|
+!i113 1
+R5
+vnpc
+Z10 !s110 1530598441
+!i10b 1
+!s100 VHbkne^[>Ojz_l69TF9BX3
+Ik[ii4BNbOzgX6NGDZ1CBa0
+R2
+R0
+w1530530720
+8C:/Users/Administrator/Desktop/ceshi1/npc.v
+FC:/Users/Administrator/Desktop/ceshi1/npc.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1530598441.000000
+!s107 C:/Users/Administrator/Desktop/ceshi1/npc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/npc.v|
+!i113 1
+R5
+vpc
+R10
+!i10b 1
+!s100 HaG2eA`61]]R[GGaX2Y342
+I73G5>59@UaoY8JD4[EONR0
+R2
+R0
+w1530530726
+8C:/Users/Administrator/Desktop/ceshi1/pc.v
+FC:/Users/Administrator/Desktop/ceshi1/pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Administrator/Desktop/ceshi1/pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/pc.v|
+!i113 1
+R5
+vregister
+R10
+!i10b 1
+!s100 :>1e[<ol6S2m:0e^HSYdA3
+ID@H?W3GdHgm8;P?UIbgQ91
+R2
+R0
+w1530530734
+8C:/Users/Administrator/Desktop/ceshi1/register.v
+FC:/Users/Administrator/Desktop/ceshi1/register.v
+L0 2
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Administrator/Desktop/ceshi1/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/register.v|
+!i113 1
+R5
+vregisters
+R10
+!i10b 1
+!s100 4j:f1^1Oh7_V8a0kMS_jn1
+IO7290TMMWLi8gj@mah9Gg3
+R2
+R0
+w1530530741
+8C:/Users/Administrator/Desktop/ceshi1/registers.v
+FC:/Users/Administrator/Desktop/ceshi1/registers.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Administrator/Desktop/ceshi1/registers.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/registers.v|
+!i113 1
+R5
+vTest
+!s110 1530598437
+!i10b 1
+!s100 LhZizWQiZOXdHBGO>OMV71
+IePkhc]G>dQJMJz@2TYd[?2
+R2
+R0
+w1528369621
+8C:/Users/Administrator/Desktop/ceshi1/Test.v
+FC:/Users/Administrator/Desktop/ceshi1/Test.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1530598437.000000
+!s107 C:/Users/Administrator/Desktop/ceshi1/Test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/Test.v|
+!i113 1
+R5
+n@test
+vtest_alu
+R10
+!i10b 1
+!s100 2ALcNomTOX?X07bNogJ:N2
+Io@]ffGd0cjX;H69h?@4]@3
+R2
+R0
+w1530530656
+8C:/Users/Administrator/Desktop/ceshi1/test_alu.v
+FC:/Users/Administrator/Desktop/ceshi1/test_alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_alu.v|
+!i113 1
+R5
+vtest_datapath
+Z12 !s110 1530598442
+!i10b 1
+!s100 T9UFacTiM;jb<SbD?P`o70
+IcCQfDG;f_[>UK:3J_CAnm2
+R2
+R0
+w1530543796
+8C:/Users/Administrator/Desktop/ceshi1/test_datapath.v
+FC:/Users/Administrator/Desktop/ceshi1/test_datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z13 !s108 1530598442.000000
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_datapath.v|
+!i113 1
+R5
+vtest_dm
+R12
+!i10b 1
+!s100 ^0CSa>@N_WA>;XeHHL=JS1
+I`B@2APznTWnMM8QOLR1JD1
+R2
+R0
+w1530544567
+8C:/Users/Administrator/Desktop/ceshi1/test_DM_4k.v
+FC:/Users/Administrator/Desktop/ceshi1/test_DM_4k.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_DM_4k.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_DM_4k.v|
+!i113 1
+R5
+vtest_ext
+R12
+!i10b 1
+!s100 @11g[>`iPnEPc^zLS_L@31
+IfgF[`U48PQ5U?O2]g37=D2
+R2
+R0
+w1530544680
+8C:/Users/Administrator/Desktop/ceshi1/test_Ext.v
+FC:/Users/Administrator/Desktop/ceshi1/test_Ext.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_Ext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_Ext.v|
+!i113 1
+R5
+vtest_im
+R12
+!i10b 1
+!s100 a4e>RNSP_@:IL8?X<FHUf3
+IITb:V2CUHn=SFV@Q6S5l80
+R2
+R0
+w1530544912
+8C:/Users/Administrator/Desktop/ceshi1/test_IM_4k.v
+FC:/Users/Administrator/Desktop/ceshi1/test_IM_4k.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_IM_4k.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_IM_4k.v|
+!i113 1
+R5
+vtest_ins
+R12
+!i10b 1
+!s100 3TYNJ0cM[S:0>XHVl13c_1
+IW?4DVi8BVHXnWE:3HgXIz0
+R2
+R0
+w1530546160
+8C:/Users/Administrator/Desktop/ceshi1/test_Instruction.v
+FC:/Users/Administrator/Desktop/ceshi1/test_Instruction.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_Instruction.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_Instruction.v|
+!i113 1
+R5
+vtest_mux2
+R12
+!i10b 1
+!s100 X5FmBILoQlDNBWoBe;Tgg1
+IZ9XSIbFnUCd5aCi_b0@`P1
+R2
+R0
+w1530547811
+8C:/Users/Administrator/Desktop/ceshi1/test_mux2.v
+FC:/Users/Administrator/Desktop/ceshi1/test_mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_mux2.v|
+!i113 1
+R5
+vtest_mux3
+Z14 !s110 1530598443
+!i10b 1
+!s100 628@?OBIPX=hJA>dRPFWI2
+ISd;_0NzV?>2VaPkk@i<`g1
+R2
+R0
+w1530548084
+8C:/Users/Administrator/Desktop/ceshi1/test_mux3.v
+FC:/Users/Administrator/Desktop/ceshi1/test_mux3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_mux3.v|
+!i113 1
+R5
+vtest_npc
+R14
+!i10b 1
+!s100 `3hOdV[BbQ[K@RI`n0fJz3
+IOKaVRM4m_lo;NSAg]YNGG1
+R2
+R0
+w1530549217
+8C:/Users/Administrator/Desktop/ceshi1/test_npc.v
+FC:/Users/Administrator/Desktop/ceshi1/test_npc.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z15 !s108 1530598443.000000
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_npc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_npc.v|
+!i113 1
+R5
+vtest_pc
+R14
+!i10b 1
+!s100 OQ4^@LTK[bn]SWaoKC;6E0
+I?becTk0;aLaa@Wb:=NR;53
+R2
+R0
+w1530550010
+8C:/Users/Administrator/Desktop/ceshi1/test_pc.v
+FC:/Users/Administrator/Desktop/ceshi1/test_pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_pc.v|
+!i113 1
+R5
+vtest_reg
+R14
+!i10b 1
+!s100 @FXeYQ?fYSinmUVTSH5aC3
+I^9f8bPO<O0Y5a7_oFKO221
+R2
+R0
+w1530550376
+8C:/Users/Administrator/Desktop/ceshi1/test_registers.v
+FC:/Users/Administrator/Desktop/ceshi1/test_registers.v
+L0 1
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/Administrator/Desktop/ceshi1/test_registers.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/ceshi1/test_registers.v|
+!i113 1
+R5

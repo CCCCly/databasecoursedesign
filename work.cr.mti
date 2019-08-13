@@ -1,0 +1,183 @@
+C:/Users/Administrator/Desktop/ceshi1/Instruction.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/Instruction.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module Instruction
+
+Top level modules:
+	Instruction
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/ALU.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/ALU.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/pc.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/pc.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/mux2.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/mux2.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/mux3.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/mux3.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_DM_4k.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_DM_4k.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_dm
+
+Top level modules:
+	test_dm
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_registers.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_registers.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_reg
+
+Top level modules:
+	test_reg
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/DataPath.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/DataPath.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/registers.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/registers.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module registers
+
+Top level modules:
+	registers
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/Test.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/Test.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module Test
+
+Top level modules:
+	Test
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_pc.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_pc.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_pc
+
+Top level modules:
+	test_pc
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_mux2.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_mux2.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_mux2
+
+Top level modules:
+	test_mux2
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_IM_4k.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_IM_4k.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_im
+
+Top level modules:
+	test_im
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_mux3.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_mux3.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_mux3
+
+Top level modules:
+	test_mux3
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/register.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/register.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/ctrl.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/ctrl.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_datapath.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_datapath.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_datapath
+
+Top level modules:
+	test_datapath
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/IM.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/IM.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module IM_4k
+
+Top level modules:
+	IM_4k
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_npc.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_npc.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_npc
+
+Top level modules:
+	test_npc
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_Ext.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_Ext.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_ext
+
+Top level modules:
+	test_ext
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_Instruction.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_Instruction.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_ins
+
+Top level modules:
+	test_ins
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/npc.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/npc.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module npc
+
+Top level modules:
+	npc
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/MIPS.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/MIPS.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/Ext.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/Ext.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module Ext
+
+Top level modules:
+	Ext
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/test_alu.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/test_alu.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test_alu
+
+Top level modules:
+	test_alu
+
+} {} {}} C:/Users/Administrator/Desktop/ceshi1/DM.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/ceshi1/DM.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module DM_4k
+
+Top level modules:
+	DM_4k
+
+} {} {}}
